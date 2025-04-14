@@ -1,6 +1,7 @@
 # Ultimate Linux Guide
 
-This repository is created to serve as a revision notes for the YouTube course created by **Abhishek Veeramalla**(`iam-veeramalla` on GitHub) on his youtube channel - `Abhishek.Veeramalla`.
+![image](https://github.com/user-attachments/assets/68ee39dc-0bb7-4184-a5f8-1962b7fde013)
+
 
 Following topics are covered as part of the course and documentation.
 
